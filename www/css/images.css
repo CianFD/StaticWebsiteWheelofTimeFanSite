@@ -1,0 +1,139 @@
+.header {
+	object-position: center;
+	width: 100%;
+	height:200px;
+}
+
+#sideimg {
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+	height: 150px;
+}
+
+#sideimgwide {
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 70%;
+	height: 150px;
+}
+
+#video {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 404px;
+}
+
+#disclaimerimgleft {
+	margin-right: 10px;
+	float: left;
+	display: block;
+	width: 17%;
+	height: 5%;
+}
+
+#disclaimerimgright {
+	float: right;
+	display: block;
+	width: 17%;
+	height: 5%;
+}
+
+#maincontentimgsmall {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block;
+	width: 80%;
+	height: 200px;
+}
+
+#maincontentimg {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block;
+	width: 100%;
+	height: 250px;
+}
+
+#mainmapimg {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block;
+	width: 100%;
+	height: 350px;
+}
+
+#plotimg {
+	margin-left: 10px;
+	margin-bottom: 5px;
+	width: 30%;
+	height: 250px;
+	float: right;
+}
+
+#charimgright {
+	margin-left: 10px;
+	margin-bottom: 5px;
+	width: 30%;
+	height: 150px;
+	float: right;
+}
+
+#charimgleft {
+	margin-right: 30px;
+	margin-bottom: 5px;
+	width: 30%;
+	height: 150px;
+	float: left;
+}
+
+#abilimgright {
+	margin-left: 10px;
+	margin-bottom: 5px;
+	width: 30%;
+	height: 150px;
+	float: right;
+}
+
+#abilimgleft {
+	margin-right: 30px;
+	margin-bottom: 5px;
+	width: 30%;
+	height: 150px;
+	float: left;
+}
+
+#authorsimg {
+	margin-top: 10px;
+	display: block;
+ 	margin-left: 15%;
+  	margin-right: 15%;
+  	width: 70%;
+	height: 150px;
+}
+
+#adaptationimg {
+	margin-top: 20px;
+	display: block;
+ 	margin-left: 25%;
+  	margin-right: 25%;
+  	width: 50%;
+	height: 200px;
+}
+
+#adaptationimgwide {
+	margin-top: 20px;
+	display: block;
+ 	margin-left: 15%;
+  	margin-right: 15%;
+  	width: 70%;
+	height: 150px;
+}

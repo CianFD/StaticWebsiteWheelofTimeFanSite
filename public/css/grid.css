@@ -1,0 +1,51 @@
+.fullpage {
+	display: grid;
+	grid-template-columns: 18% 72%;
+	grid-gap: 5%;
+}
+
+#header {
+	grid-column-start: 1;
+	grid-column-end: span 2;
+}
+
+#navbar {
+	grid-column-start: 1;
+}
+
+#content {
+	grid-column-start: 2;
+	display: grid;
+	grid-template-columns: 70% 25%;
+	grid-gap: 5%;
+
+}
+
+#main {
+	grid-column-start: 1;
+}
+
+#mainsplit {
+	grid-column-start: 1;
+	display: grid;
+	grid-template-columns: 49% 49%;
+	grid-gap: 2%;
+}
+
+#splitleft {
+	grid-column-start: 1;
+}
+
+#splitright {
+	grid-column-start: 2;
+}
+
+#side {
+	grid-column-start: 2;
+}
+
+#footer {
+	grid-column-start: 1;
+	grid-column-end: span 2;
+
+}

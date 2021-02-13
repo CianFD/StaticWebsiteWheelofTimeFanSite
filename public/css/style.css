@@ -1,0 +1,99 @@
+body {
+	font-family: Helivetica, san-serif;
+	background-image: url("../images/parchment-bg.jpg");
+}
+
+.disclaimer {
+	background: tan;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	padding: 10px;
+	margin: 30px;
+}
+
+#header {
+	text-align: center;
+	border-bottom-color: black;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	padding-bottom: 20px;
+}
+
+#side {
+	padding-left: 10px;
+	text-align: center;
+	border-left-color: black;
+	border-left-width: 3px;
+	border-left-style: solid;	
+}
+
+#sidelist {
+	text-align: left;
+	padding-left: 40px;
+}
+
+#footer {
+	background: tan;
+	text-align: center;
+	margin: 10px;
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+}
+
+#plotcontent {
+	text-align: left;
+	float: left;
+}
+
+#charleft {
+	text-align: left;
+	float: left;
+}
+
+#charright {
+	text-align: left;
+	float: right;
+}
+
+#abilleft {
+	text-align: left;
+	float: left;
+}
+
+#abilright {
+	text-align: left;
+	float: right;
+}
+
+#authorleft {
+	text-align: left;
+	margin-right: 10px;
+}
+
+#authorright {
+	text-align: left;
+	margin-left: 10px;
+}
+
+#adapleft {
+	text-align: left;
+	margin-right: 10px;
+}
+
+#adapright {
+	text-align: left;
+	margin-left: 10px;
+}
+
+#splitleft {
+	text-align: center;
+	border-right-color: black;
+	border-right-width: 3px;
+	border-right-style: solid;
+}
+
+#splitright {
+	text-align: center;
+}
